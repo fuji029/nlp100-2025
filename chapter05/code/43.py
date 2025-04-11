@@ -73,12 +73,12 @@ for problem in tqdm(problems):
         time.sleep(65)
 
 
-with open("43.model.out", "w") as f:
+with open("out/43.model.out", "w") as f:
     for text in responses:
         f.write(text + "\n")
 
 acc = sum(accuracy) / len(accuracy)
 print(f"Accuracy: {acc}\n")
 
-with open("./43.out", "w") as f:
+with open("out/43.out", "w") as f:
     f.write(f"Accuracy: {acc}\n")
