@@ -10,8 +10,8 @@
 |55|[55.py](code/55.py)|[55.out](out/55.out)|
 |56|[56.py](code/56.py)|[56.out](out/56.out)|
 |57|[57.py](code/57.py)|[57.out](out/57.out)|
-|58|[58.py](code/58.py)|[58.out](out/58.out)|
-|59|[59.py](code/59.py)|[59.out](out/59.out)|
+|58|[58.py](code/58.py)|[58.png](out/58.png)|
+|59|[59.py](code/59.py)|[59.png](out/59.png)|
 
 
 
