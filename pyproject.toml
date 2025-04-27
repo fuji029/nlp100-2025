@@ -13,4 +13,21 @@ dependencies = [
     "scikit-learn>=1.6.1",
     "seaborn>=0.13.2",
     "tqdm>=4.67.1",
+    "torch>=1.9.0",
+    "torchvision>=0.10.0",
+    "transformers>=4.51.3",
+    "torchinfo>=1.8.0",
 ]
+
+[tool.uv.sources]
+torch = [
+    { index = "pytorch-cu121" },
+]
+torchvision = [
+    { index = "pytorch-cu121" },
+]
+
+[[tool.uv.index]]
+name = "pytorch-cu121"
+url = "https://download.pytorch.org/whl/cu121"
+explicit = true
