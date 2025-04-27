@@ -1,0 +1,2 @@
+token: fun
+sequence: the movie was full of fun.

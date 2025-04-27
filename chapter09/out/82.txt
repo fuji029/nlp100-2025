@@ -1,0 +1,11 @@
+      score  token   token_str                           sequence
+0  0.107119   4569         fun         the movie was full of fun.
+1  0.066345  20096   surprises   the movie was full of surprises.
+2  0.044684   3689       drama       the movie was full of drama.
+3  0.027217   3340       stars       the movie was full of stars.
+4  0.025413  11680      laughs      the movie was full of laughs.
+5  0.019517   2895      action      the movie was full of action.
+6  0.019038   8277  excitement  the movie was full of excitement.
+7  0.018290   2111      people      the movie was full of people.
+8  0.015031   6980     tension     the movie was full of tension.
+9  0.014646   2189       music       the movie was full of music.
