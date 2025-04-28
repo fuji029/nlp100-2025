@@ -1,0 +1,1 @@
+validation accuracy:  0.9148888221153846

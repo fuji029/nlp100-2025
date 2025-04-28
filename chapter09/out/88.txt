@@ -1,0 +1,4 @@
+text:The movie was full of fun.	pred: Positive
+text:The movie was full of excitement.	pred: Positive
+text:The movie was full of crap.	pred: Negative
+text:The movie was full of rubbish.	pred: Negative
