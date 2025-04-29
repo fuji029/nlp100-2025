@@ -1,0 +1,2 @@
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>  Cutting Knowledge Date: December 2023 Today Date: 29 Apr 2025  <|eot_id|><|start_header_id|>user<|end_header_id|>  What do you call a sweet eaten after dinner?<|eot_id|>
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>  Cutting Knowledge Date: December 2023 Today Date: 29 Apr 2025  <|eot_id|><|start_header_id|>user<|end_header_id|>  What do you call a sweet eaten after dinner?<|eot_id|>assistant  Is the answer "dessert"?
