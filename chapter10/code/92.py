@@ -24,7 +24,7 @@ logits = [score[0][id].item() for score, id in zip(scores, ids[0])]
 
 result = []
 
-for token, logit in zip(tokens, logits):
+for token, logit in zip(tokens[input_len:], logits):
     result.append({"token": token, "logit": logit})
 
 pd.DataFrame(result).to_csv("out/92.tsv", sep="\t", index=False)
