@@ -1,0 +1,53 @@
+{'device': '1', 'model': 'LSTM', 'lr': 0.0001, 'num_epochs': 100, 'batch_size': 64}
+=======LSTM=======
+epoch: 0 loss: 0.5051
+epoch: 1 loss: 0.3653
+epoch: 2 loss: 0.3549
+epoch: 3 loss: 0.3422
+epoch: 4 loss: 0.3320
+epoch: 5 loss: 0.3201
+epoch: 6 loss: 0.3101
+epoch: 7 loss: 0.2988
+epoch: 8 loss: 0.2868
+epoch: 9 loss: 0.2779
+epoch: 10 loss: 0.2652
+epoch: 11 loss: 0.2560
+epoch: 12 loss: 0.2459
+epoch: 13 loss: 0.2380
+epoch: 14 loss: 0.2281
+epoch: 15 loss: 0.2217
+epoch: 16 loss: 0.2137
+epoch: 17 loss: 0.2080
+epoch: 18 loss: 0.1995
+epoch: 19 loss: 0.1973
+epoch: 20 loss: 0.1894
+epoch: 21 loss: 0.1878
+epoch: 22 loss: 0.1800
+epoch: 23 loss: 0.1771
+epoch: 24 loss: 0.1741
+epoch: 25 loss: 0.1692
+epoch: 26 loss: 0.1637
+epoch: 27 loss: 0.1607
+epoch: 28 loss: 0.1589
+epoch: 29 loss: 0.1541
+epoch: 30 loss: 0.1526
+epoch: 31 loss: 0.1503
+epoch: 32 loss: 0.1459
+epoch: 33 loss: 0.1413
+epoch: 34 loss: 0.1412
+epoch: 35 loss: 0.1387
+epoch: 36 loss: 0.1366
+epoch: 37 loss: 0.1329
+epoch: 38 loss: 0.1325
+epoch: 39 loss: 0.1290
+epoch: 40 loss: 0.1269
+epoch: 41 loss: 0.1258
+epoch: 42 loss: 0.1228
+epoch: 43 loss: 0.1211
+epoch: 44 loss: 0.1190
+epoch: 45 loss: 0.1160
+epoch: 46 loss: 0.1157
+epoch: 47 loss: 0.1169
+Early Stopping at epoch 47
+Average time per epoch: 3.14s
+dev accuracy: 0.8405963302752294

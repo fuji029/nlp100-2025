@@ -1,0 +1,29 @@
+{'device': '0', 'model': 'MLP', 'lr': 0.001, 'num_epochs': 100, 'batch_size': 64}
+=======MLP=======
+epoch: 0 loss: 0.3553
+epoch: 1 loss: 0.3077
+epoch: 2 loss: 0.2823
+epoch: 3 loss: 0.2634
+epoch: 4 loss: 0.2435
+epoch: 5 loss: 0.2309
+epoch: 6 loss: 0.2185
+epoch: 7 loss: 0.2104
+epoch: 8 loss: 0.2016
+epoch: 9 loss: 0.1929
+epoch: 10 loss: 0.1877
+epoch: 11 loss: 0.1787
+epoch: 12 loss: 0.1757
+epoch: 13 loss: 0.1730
+epoch: 14 loss: 0.1694
+epoch: 15 loss: 0.1619
+epoch: 16 loss: 0.1607
+epoch: 17 loss: 0.1582
+epoch: 18 loss: 0.1548
+epoch: 19 loss: 0.1526
+epoch: 20 loss: 0.1500
+epoch: 21 loss: 0.1482
+epoch: 22 loss: 0.1445
+epoch: 23 loss: 0.1446
+Early Stopping at epoch 23
+Average time per epoch: 2.34s
+dev accuracy: 0.7889908256880734

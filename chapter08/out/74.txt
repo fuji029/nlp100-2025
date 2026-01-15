@@ -1,21 +1,13 @@
-epoch: 0 loss: 0.6869
-epoch: 1 loss: 0.6770
-epoch: 2 loss: 0.6673
-epoch: 3 loss: 0.6586
-epoch: 4 loss: 0.6506
-epoch: 5 loss: 0.6432
-epoch: 6 loss: 0.6363
-epoch: 7 loss: 0.6298
-epoch: 8 loss: 0.6238
-epoch: 9 loss: 0.6181
-epoch: 10 loss: 0.6128
-epoch: 11 loss: 0.6079
-epoch: 12 loss: 0.6032
-epoch: 13 loss: 0.5989
-epoch: 14 loss: 0.5948
-epoch: 15 loss: 0.5909
-epoch: 16 loss: 0.5873
-epoch: 17 loss: 0.5838
-epoch: 18 loss: 0.5806
-epoch: 19 loss: 0.5775
-dev accuracy: 0.747706413269043
+epoch: 0 loss: 0.4025
+epoch: 1 loss: 0.3724
+epoch: 2 loss: 0.3698
+epoch: 3 loss: 0.3691
+epoch: 4 loss: 0.3687
+epoch: 5 loss: 0.3685
+epoch: 6 loss: 0.3683
+epoch: 7 loss: 0.3682
+epoch: 8 loss: 0.3681
+epoch: 9 loss: 0.3681
+Early Stopping at epoch 9
+Average time per epoch: 61.19s
+dev accuracy: 0.8027522935779816

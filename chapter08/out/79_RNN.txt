@@ -1,0 +1,20 @@
+{'device': '1', 'model': 'RNN', 'lr': 0.0001, 'num_epochs': 100, 'batch_size': 64}
+=======RNN=======
+epoch: 0 loss: 0.5797
+epoch: 1 loss: 0.3960
+epoch: 2 loss: 0.3767
+epoch: 3 loss: 0.3704
+epoch: 4 loss: 0.3665
+epoch: 5 loss: 0.3649
+epoch: 6 loss: 0.3601
+epoch: 7 loss: 0.3565
+epoch: 8 loss: 0.3491
+epoch: 9 loss: 0.3440
+epoch: 10 loss: 0.3407
+epoch: 11 loss: 0.3387
+epoch: 12 loss: 0.3379
+epoch: 13 loss: 0.3361
+epoch: 14 loss: 0.3364
+Early Stopping at epoch 14
+Average time per epoch: 2.75s
+dev accuracy: 0.8107798165137615
